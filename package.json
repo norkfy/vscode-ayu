@@ -2,7 +2,7 @@
   "name": "ayu",
   "displayName": "Ayu",
   "description": "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "publisher": "teabyii",
   "license": "MIT",
   "repository": {
@@ -39,12 +39,12 @@
         "path": "./ayu-dark-bordered.json"
       },
       {
-        "label": "Ayu Light",
+        "label": "Ayu Light Norkfy",
         "uiTheme": "vs",
         "path": "./ayu-light.json"
       },
       {
-        "label": "Ayu Light Bordered",
+        "label": "Ayu Light Bordered Norkfy",
         "uiTheme": "vs",
         "path": "./ayu-light-bordered.json"
       },

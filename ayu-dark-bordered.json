@@ -270,7 +270,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#ff8f40"
+				"foreground": "#ffa757"
 			}
 		},
 		{
@@ -750,6 +750,17 @@
 			"settings": {
 				"background": "#b3b1ad",
 				"foreground": "#626a73"
+			}
+		},
+		{
+			"name": "JS/TS Object properties",
+			"scope": [
+				"variable.other.property",
+				"variable.other.object.property",
+				"meta.object.member"
+			],
+			"settings": {
+				"foreground": "#ffee99"
 			}
 		}
 	]
