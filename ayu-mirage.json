@@ -757,10 +757,10 @@
 			"scope": [
 				"variable.other.property",
 				"variable.other.object.property",
-				"meta.object.member"
+				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#d4bfff"
+				"foreground": "#5ccfe6"
 			}
 		}
 	]

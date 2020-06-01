@@ -855,10 +855,10 @@ export default (variant: SchemeName, bordered: boolean) => {
         scope: [
           "variable.other.property",
           "variable.other.object.property",
-          "meta.object.member",
+          "meta.object-literal.key",
         ],
         settings: {
-          foreground: scheme.syntax.constant.hex(),
+          foreground: scheme.syntax.tag.hex(),
         },
       },
     ],
