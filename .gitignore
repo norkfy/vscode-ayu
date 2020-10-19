@@ -12,3 +12,5 @@
 .vscode
 
 /node_modules
+
+*.vsix
